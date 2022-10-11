@@ -30,4 +30,7 @@
 </p>
 
 ---
-
+<div align="center"">
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samlamelectrician"&show_icons=true&locale=en&layout=compact" alt="quangly97" /></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=samlamelectrician" alt="quangly97"/></span>
+</div>
