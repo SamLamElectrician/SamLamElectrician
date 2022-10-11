@@ -8,7 +8,6 @@ I am now learning basic web dev such as html, css and js to get my first job. </
 <a href="https://github.com/SamLamElectrician" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="itsquangly"/></a>
 <a href="sammylam505@gmail.com" target="blank"><img align="center" alt="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="sammylam505@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/sammy-lam-front-end-dev-electrician/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sammy-Lam"/></a>
-<a href="https://instagram.com/itsquangly" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="itsquangly"/></a>
 </p>
 
 ---
