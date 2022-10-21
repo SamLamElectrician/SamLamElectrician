@@ -20,16 +20,18 @@
 <a href="https://en.wikipedia.org/wiki/HTML" target="__blank"> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> </a> 
 <a href="https://sass-lang.com/" target="__blank"> <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> </a> 
 <a href="https://firebase.google.com/" target="__blank"> <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> </a> 
-<a href="https://jquery.com/" target="__blank"> <img alt="jQUERY" src=https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> </a> 
+<a href="https://jquery.com/" target="__blank"> <img alt="jQUERY" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> </a> 
 <p align="center">
 
 ---
+  
 <h3 align="center">Currently Learning</h3>
 <p align="center">
 <a href="https://nodejs.org/en/" target="__blank"> <img alt="Node Js Badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> </a> 
 <a href="https://expressjs.com/" target="__blank"> <img alt="Express Js Badge" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> </a> 
 <a href="https://www.mongodb.com/" target="__blank"> <img alt="MongoDB badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
 </p>
+  
 ---
 
 <h3 align="center">Workspace Spec:</h3>
