@@ -4,7 +4,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://github.com/SamLamElectrician" target="__blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="itsquangly"/></a>
+<a href="https://github.com/SamLamElectrician" target="__blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="SamLamElectrician"/></a>
 <a href="sammylam505@gmail.com" target="__blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sammylam505@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/sammy-lam-front-end-dev-electrician/" target="__blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sammy-Lam"/></a>
 </p>
@@ -43,7 +43,7 @@
 </p>
 
 ---
-<div align="center"">
-  <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samlamelectrician"&show_icons=true&locale=en&layout=compact" alt="quangly97" /></span>
-  <span><img src="https://github-readme-stats.vercel.app/api?username=samlamelectrician" alt="quangly97"/></span>
+<div align="center">
+  <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samlamelectrician"&show_icons=true&locale=en&layout=compact" alt="SamLam Electrician" /></span>
+  <span><img src="https://github-readme-stats.vercel.app/api?username=samlamelectrician" alt="SamLamElectrician"/></span>
 </div>
