@@ -31,6 +31,9 @@
 <a href="https://nodejs.org/en/" target="__blank"> <img alt="Node Js Badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> </a> 
 <a href="https://expressjs.com/" target="__blank"> <img alt="Express Js Badge" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> </a> 
 <a href="https://www.mongodb.com/" target="__blank"> <img alt="MongoDB badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
+ <a href="https://jestjs.io/" target="__blank"> <img alt="Jest badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> </a>
+ <a href="https://getbootstrap.com/" target="__blank"> <img alt="bootstrap badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
+ <a href="https://www.figma.com/files/recent?fuid=1168764690519449164" target="__blank"> <img alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </a>
 </p>
   
 ---
