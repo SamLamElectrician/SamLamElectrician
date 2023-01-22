@@ -51,3 +51,5 @@
   <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samlamelectrician"&show_icons=true&locale=en&layout=compact" alt="SamLam Electrician" /></span>
   <span><img src="https://github-readme-stats.vercel.app/api?username=samlamelectrician" alt="SamLamElectrician"/></span>
 </div>
+---
+     (https://github.com/SamLamElectrician/SamLamElectrician/blob/output/github-contribution-grid-snake.svg)
