@@ -48,8 +48,8 @@
 
 ---
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samlamelectrician"&show_icons=true&locale=en&layout=compact" alt="SamLam Electrician" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=samlamelectrician" alt="SamLamElectrician"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samlamelectrician"&show_icons=true&locale=en&layout=compact" alt="SamLam Electrician" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=samlamelectrician" alt="SamLamElectrician"/>
 </div>
      
 ---
