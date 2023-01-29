@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">Favourite Languages and Tools:</h3>
+<h3 align="center">Currently Using:</h3>
 <p align="center"> 
    <a href="https://en.wikipedia.org/wiki/HTML" target="__blank"> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> </a> 
   <a href="https://en.wikipedia.org/wiki/CSS" target="__blank"> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> </a> 
