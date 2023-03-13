@@ -1,6 +1,6 @@
 <h1 align="center">Hi, Sammy Lam 👋</h1>
 
-<p>I am located in Toronto, Ontario, Canada. I am a front end dev with a background in the blue collar field. I am currently a licensed electrician looking to make a jump into tech. My journey is a bit backwards where I started learning python to do leetcode questions because I thoroughly enjoy puzzles. I am now learning basic web dev such as html, css and js to get my first job. I also graduated from Juno College of technology to help further my learning on best code practices. </p>
+<p>I am located in Toronto, Ontario, Canada. I am a front end dev with a background in the blue collar field. I am currently a licensed electrician looking to make a jump into tech. My journey is a bit backwards where I started learning python to do leetcode questions because I thoroughly enjoy puzzles. I am currently looking for my first professional opportunity. </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
