@@ -35,7 +35,7 @@
   
 <h3 align="center">Currently Learning</h3>
 <p align="center">
-
+<a href="https://pytorch.org/" target="__blank"> <img alt="Pytorch badge" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/> </a>
  <a href="https://www.figma.com/files/recent?fuid=1168764690519449164" target="__blank"> <img alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </a>
 </p>
   
