@@ -27,6 +27,7 @@
 <a href="https://expressjs.com/" target="__blank"> <img alt="Express Js Badge" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> </a> 
 <a href="https://www.mongodb.com/" target="__blank"> <img alt="MongoDB badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
  <a href="https://getbootstrap.com/" target="__blank"> <img alt="bootstrap badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
+   <a href="https://flask.palletsprojects.com/en/2.3.x/" target="__blank"> <img alt="flask badge" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> </a>
    <br/>
 <p align="center">
 
@@ -37,6 +38,7 @@
 <p align="center">
 <a href="https://pytorch.org/" target="__blank"> <img alt="Pytorch badge" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/> </a>
  <a href="https://www.figma.com/files/recent?fuid=1168764690519449164" target="__blank"> <img alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </a>
+   <a href="https://www.djangoproject.com/" target="__blank"> <img alt="django badge" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> </a>
 </p>
   
 ---
