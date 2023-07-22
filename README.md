@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Sammy Lam 👋</h1>
+<h1 align="center">Hi, I'm Sammy Lam 👋</h1>
 
 <p>I am located in Toronto, Ontario, Canada. I am a front end dev with a background in the blue collar field. I am currently a licensed electrician looking to make a jump into tech. My journey is a bit backwards where I started learning python to do leetcode questions because I thoroughly enjoy puzzles. I am currently looking for my first professional opportunity. </p>
 
