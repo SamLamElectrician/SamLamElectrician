@@ -57,4 +57,5 @@
 </div>
      
 ---
+
 ![snake gif](https://github.com/SamLamElectrician/SamLamElectrician/blob/output/github-contribution-grid-snake.gif)
